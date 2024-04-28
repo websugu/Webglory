@@ -245,7 +245,7 @@ form{}
   .categories button:focus{
     background-color:#286AFE;color: white;
   }
-  h1{font-size: 19px;}
+  h1{font-size: 15px;}
   .temp-bg{
     background-color: #286AFE;width: 100%;
     text-align: center;
